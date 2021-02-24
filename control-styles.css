@@ -1,0 +1,207 @@
+
+.control-size{
+    height: 800px;
+    width: 170px;
+    background-color: black;
+    position:relative;
+    left:40%;
+    top:80px;
+    border: 2px solid;
+    border-radius: 10px;
+    
+}
+
+.box{
+    background-color:black;
+    width:160px;
+    height:40px;
+    position:relative;
+    left:5px;
+    top:15px;
+    display: flex;
+    align-items: center; /*centra verticalmente la imagen*/
+    justify-content:space-between; /*coloca los elementos uno al lado del otro*/
+}
+
+.button{
+    width: 35px;
+    height:20px;
+    position:relative;
+    top:2px;
+    margin:5px;
+    border-color:rgb(85, 84, 84);
+    border-width: 3px;
+    border-style:solid;
+    border-radius:5px;
+    border-top: 7px;
+    color:white;
+    text-align: center;
+    
+}
+
+.black{
+    background-color:black;
+}
+
+.grey{
+    background-color: grey;
+}
+
+.red{
+    background-color: red;
+}
+
+.green{
+    background-color: rgb(42, 179, 42);
+}
+
+.yellow{
+    background-color: rgb(224, 224, 52);
+}
+
+.blue{
+    background-color: rgb(54, 146, 207);
+}
+.hidden{
+    visibility: hidden; 
+}
+
+.icon{
+    margin-left: auto;
+    margin-right: auto;
+    position: relative;
+    top:2px;
+}
+
+.no-border{
+    position: relative;
+    bottom:3px;
+    margin: 5px;
+}
+
+.number{
+    text-align: center;
+    position: relative;
+    bottom: 20px;
+}
+
+.size-letter{
+    font-size: 7px;
+    font-weight:bold;
+    position: relative;
+    top:1px;
+}
+
+.big-button{
+    width: 30px;
+    height:32px;
+    position:relative;
+    top:2px;
+    margin:5px;
+    border-color:rgb(85, 84, 84);
+    border-width: 3px;
+    border-style:solid;
+    border-radius:5px;
+    border-top: 7px;
+    color:white;
+    text-align: center;
+}
+
+.cube{
+    position: relative;
+    top: 4px;
+    
+}
+
+.ok{
+    font-size: 12px;
+    font-weight: bold;
+    position: relative;
+    bottom: 4px;
+    
+}
+
+.button-circle{
+    width: 30px;
+    height:26px;
+    position:relative;
+    top:0px;
+    margin:5px;
+    border-color:rgb(85, 84, 84);
+    border-width: 3px;
+    border-style:solid;
+    border-radius:15px;
+    color:white;
+    text-align: center;
+    border-top:0px;   
+}
+
+.letter{
+    font-size: 14px;
+    font-weight: bold;
+    position: relative;
+    bottom:10px;
+}
+
+.space{
+    height: 20px;
+}
+.large-button{
+    width: 28px;
+    height:70px;
+    position:relative;
+    top:2px;
+    margin:4px;
+    border-color:rgb(85, 84, 84);
+    border-width: 3px;
+    border-style:solid;
+    border-radius:5px;
+    border-top: 7px;
+    color:white;
+    text-align: center;
+
+}
+
+.blue-sky{
+    background-color: rgb(124, 191, 223);
+}
+
+.add{
+    position: relative;
+    top:5px;
+    margin-top: 2px;
+    margin-bottom: 2px;
+}
+
+.mini-button{
+    width: 30px;
+    height:12px;
+    position:relative;
+    top:2px;
+    margin:5px;
+    border-color:rgb(85, 84, 84);
+    border-width: 3px;
+    border-style:solid;
+    border-radius:5px;
+    border-top: 7px;
+    color:white;
+    text-align: center;
+}
+
+.brand-border{
+    width:35px;
+    text-align: center;
+    color:white;
+    border: 3px solid grey;
+    height: 30px;
+}
+
+.brand{
+    text-align: center;
+    color:white;
+    font-size: 18px;
+    font-weight: bold;
+    position: relative;
+    bottom:10px;
+    
+}
